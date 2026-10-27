@@ -1,0 +1,16 @@
+# Caché de bytecode de Python
+__pycache__/
+*.pyc
+
+# Caché y metadatos de pytest
+.pytest_cache/
+
+# Metadatos de empaquetado (setuptools)
+*.egg-info/
+
+# Artefactos de construcción y distribución
+build/
+dist/
+
+# Entornos virtuales
+.venv/
